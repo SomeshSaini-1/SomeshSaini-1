@@ -63,15 +63,6 @@ Full Stack MERN Developer | IoT Developer | Deployment Engineer
 
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SomeshSaini-1&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
 
 ---
 
