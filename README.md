@@ -37,9 +37,9 @@ Full Stack MERN Developer | IoT Developer | Deployment Engineer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SomeshSaini-1&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SomeshSaini-1&theme=tokyonight" height="170"/>
 
 </p>
 
@@ -49,7 +49,7 @@ Full Stack MERN Developer | IoT Developer | Deployment Engineer
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshSaini-1&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -59,7 +59,7 @@ Full Stack MERN Developer | IoT Developer | Deployment Engineer
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SomeshSaini-1&theme=tokyonight" />
 
 </p>
 
@@ -69,7 +69,7 @@ Full Stack MERN Developer | IoT Developer | Deployment Engineer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SomeshSaini-1&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
